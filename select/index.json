@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Call me, Tell me",
+  "base_artist": "SWEET STEADY",
+  "createdAt": "2026-01-05T05:11:57.740764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Call Me, Tell Me",
+      "artist": "American Flyer",
+      "has_synced": false,
+      "path": "select/01_Call_Me,_Tell_Me_American_Flyer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Call Me, Tell Me",
+      "artist": "Pure Prairie League",
+      "has_synced": true,
+      "path": "select/02_Call_Me,_Tell_Me_Pure_Prairie_League.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Call Me, Tell Me",
+      "artist": "Pure Prarie League",
+      "has_synced": true,
+      "path": "select/03_Call_Me,_Tell_Me_Pure_Prarie_League.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Call me, Tell me",
+      "artist": "SWEET STEADY",
+      "has_synced": false,
+      "path": "select/04_Call_me,_Tell_me_SWEET_STEADY.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Call Me, Tell Me (Remastered 1988)",
+      "artist": "Pure Prairie League",
+      "has_synced": false,
+      "path": "select/05_Call_Me,_Tell_Me_(Remastered_1988)_Pure_Prairie_League.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Call Me, Tell Me (Craig Fuller)",
+      "artist": "Pure Prairie League",
+      "has_synced": true,
+      "path": "select/06_Call_Me,_Tell_Me_(Craig_Fuller)_Pure_Prairie_League.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Call Me, Tell Me (Remastered January 1992)",
+      "artist": "Pure Prairie League",
+      "has_synced": false,
+      "path": "select/07_Call_Me,_Tell_Me_(Remastered_January_1992)_Pure_Prairie_League.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Call me, Tell me",
+      "artist": "SWEET STEADY",
+      "has_synced": false,
+      "path": "select/pl_01_Call_me,_Tell_me_SWEET_STEADY.txt"
+    }
+  ]
+}
